@@ -15,6 +15,10 @@
       "to": "#07C983"
     }
   },
+  "modeToggle": {
+    "default": "light",
+    "isHidden": false
+  },
   "topbarLinks": [
     {
       "name": "Support",
