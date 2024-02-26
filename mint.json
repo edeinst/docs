@@ -51,7 +51,7 @@
         "quickstart",
         "steps/registration",
         "steps/user_authorization",
-        "steps/messaging"
+        "steps/posting"
       ]
     },
     {
