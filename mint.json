@@ -48,18 +48,10 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart"
-      ]
-    },
-    {
-      "group": "Steps",
-      "pages": [
-        "steps/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "quickstart",
+        "steps/registration",
+        "steps/user_authorization",
+        "steps/messaging"
       ]
     },
     {
