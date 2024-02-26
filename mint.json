@@ -34,7 +34,7 @@
   "anchors": [
     {
       "name": "App Store",
-      "icon": "cursor-hand",
+      "icon": "app-store",
       "url": "https://mintlify.com/docs"
     },
     {
